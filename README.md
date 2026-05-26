@@ -6,4 +6,4 @@ Principais resultados:
   - Automação da geração de relatórios de risco, exportando uma lista de ativos críticos diretamente para Excel.
   - Foco em otimização de disponibilidade de ativos (KPIs de PCM).
 
-<img width="811" height="152" alt="image" src="https://github.com/user-attachments/assets/cd1aaae3-a7af-4099-a399-258b045788bb" />
+<img width="439" height="132" alt="image" src="https://github.com/user-attachments/assets/10f34ff4-7e4b-4b0a-89fa-dacaead9dccf" />
